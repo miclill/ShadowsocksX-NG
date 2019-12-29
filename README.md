@@ -6,6 +6,10 @@
 
 Next Generation of [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS)
 
+## What it is
+
+Shadowsocks is a free and open-source encrypted proxy project, widely used in mainland China to circumvent Internet censorship. [Wikipedia](https://github.com/shadowsocks/ShadowsocksX-NG)
+
 ## Why a new implementation?
 
 It's hard to maintain the original implementation as there is too much unused code in it.
